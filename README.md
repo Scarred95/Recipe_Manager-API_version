@@ -1,4 +1,4 @@
-# Recipe-Manager---API-version
+# Recipe_Manager-API_version
 This project was developed as part of the "Agile Software Development (Linux &amp; Cloud Engineering)" training program. The goal was to move beyond simple scripting and engineer a structured, scalable backend application.
 
 ## Architectural Decisions
